@@ -24,6 +24,7 @@ En cada una de nuestras prácticas utilizamos Inteligencia Artificial (IA), Mach
 
 ## Algunos de Nuestros Proyectos
 
+* [Modelo de Regresión Lineal Múltiple en R](https://github.com/actfin/Proyectos/tree/main/Predicci%C3%B3n%20con%20Regresi%C3%B3n%20Lineal)
 
 ---
 
