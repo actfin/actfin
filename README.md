@@ -26,6 +26,7 @@ En cada una de nuestras prácticas utilizamos Inteligencia Artificial (IA), Mach
 
 * [Modelo de Regresión Lineal Múltiple en R](https://github.com/actfin/Proyectos/tree/main/Predicci%C3%B3n%20con%20Regresi%C3%B3n%20Lineal)
 * [Predicción de Morosidad a través del Machine Learning](https://github.com/actfin/Proyectos/tree/main/Analisis%20de%20Credito)
+* [Vehículo Inteligente dentro de Planta Industrial](https://github.com/actfin/Proyectos/tree/main/Vehiculo%20Inteligente)
 
 [Ver más proyectos...](https://github.com/actfin/Proyectos)
 
